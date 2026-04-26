@@ -7,5 +7,6 @@ datasets
 pandas
 numpy
 safetensors
+peft
 bitsandbytes
 xformers
